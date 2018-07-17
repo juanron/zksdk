@@ -1,0 +1,10 @@
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\x64\Release\Demo.exe
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\x64\Release\Demo.pdb
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x64\Release\ResolveAssemblyReference.cache
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x64\Release\Demo.Form1.resources
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x64\Release\Demo.Properties.Resources.resources
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x64\Release\Demo.csproj.GenerateResource.Cache
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x64\Release\Demo.exe
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x64\Release\Demo.pdb
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\1.0\Demo\obj\x64\Release\Demo.exe
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\1.0\Demo\obj\x64\Release\Demo.pdb

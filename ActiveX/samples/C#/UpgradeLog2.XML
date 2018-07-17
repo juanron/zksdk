@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ZK-Finger">
+</Property><Property Name="方案檔" Value="C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\ZK-Finger.sln">
+</Property><Property Name="使用者選項檔" Value="C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\ZK-Finger.suo">
+</Property><Property Name="Date" Value="2013年10月28日">
+</Property><Property Name="Time" Value="下午 14:50">
+</Property><Property Name="記錄檔編號" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ZK-Finger.sln" Description="檔案已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\ZK-Finger.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ZK-Finger.suo" Description="檔案已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\ZK-Finger.suo">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="ZK-Finger.csproj" Description="專案檔已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\ZK-Finger.csproj">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="ZK-Finger.csproj.user" Description="專案使用者檔案已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\ZK-Finger.csproj.user">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="Form1.cs" Description="檔案已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="Form1.Designer.cs" Description="檔案已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="Program.cs" Description="檔案已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="Properties\AssemblyInfo.cs" Description="檔案已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="Properties\Resources.Designer.cs" Description="檔案已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="Properties\Settings.Designer.cs" Description="檔案已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="Settings.cs" Description="檔案已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\Settings.cs">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="Properties\Settings.settings" Description="檔案已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="app.config" Description="檔案已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="Biokey01_TemporaryKey.pfx" Description="檔案已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\Biokey01_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="Form1.resx" Description="檔案已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="Properties\Resources.resx" Description="檔案已成功備份為 C:\Users\Bio107\Desktop\.Net Demo\ZK-Finger_demo\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="ZK-Finger" Source="ZK-Finger.csproj" Description="您的專案是以 .NET Framework 2.0 或 3.0 為目標。如果您的專案使用需要較新版 .NET Framework 的組件，專案建置將會失敗。您可以變更 .NET Framework 版本，方法是按一下專案功能表上的 [屬性]，然後在 [.NET Framework] 下拉式方塊中選取新的版本 (在 Visual Basic 中，它的位置是在按一下 [進階編譯選項...] 按鈕時顯示的 [編譯] 索引標籤上)。">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="ZK-Finger.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="ZK-Finger" Source="ZK-Finger.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ZK-Finger.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="ZK-Finger.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ZK-Finger" Source="ZK-Finger.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

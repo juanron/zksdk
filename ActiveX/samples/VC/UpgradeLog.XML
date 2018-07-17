@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Demo">
+</Property><Property Name="Solution File" Value="G:\Work\生物识别\ZKFinger SDK 5.0\samples\VC\Demo.sln">
+</Property><Property Name="User Options File" Value="G:\Work\生物识别\ZKFinger SDK 5.0\samples\VC\Demo.suo">
+</Property><Property Name="Date" Value="2016年4月5日">
+</Property><Property Name="Time" Value="9:38">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Demo.sln" Description="File successfully backed up as G:\Work\生物识别\ZKFinger SDK 5.0\samples\VC\Demo.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Demo.suo" Description="File successfully backed up as G:\Work\生物识别\ZKFinger SDK 5.0\samples\VC\Demo.suo.old">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo.vcproj" Description="Converting project file 'G:\Work\生物识别\ZKFinger SDK 5.0\samples\VC\Demo.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Demo" Source="Demo.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="Demo" Source="Demo.vcproj" Description="MSB8012: $(TargetPath) ('G:\Work\生物识别\ZKFinger SDK 5.0\samples\VC\.\Release\Demo.exe') does not match the Linker's OutputFile property value '.\Release/Demo.exe' ('G:\Work\生物识别\ZKFinger SDK 5.0\samples\VC\Release/Demo.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="Demo" Source="Demo.vcproj" Description="MSB8012: $(TargetPath) ('G:\Work\生物识别\ZKFinger SDK 5.0\samples\VC\.\Debug\Demo.exe') does not match the Linker's OutputFile property value '.\Debug/Demo.exe' ('G:\Work\生物识别\ZKFinger SDK 5.0\samples\VC\Debug/Demo.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo.vcproj" Description="Done converting to new project file 'G:\Work\生物识别\ZKFinger SDK 5.0\samples\VC\Demo.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Demo" Source="Demo.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Demo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Demo.sln" Description="Converted">
+</Event></UpgradeLog>

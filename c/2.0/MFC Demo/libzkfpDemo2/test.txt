@@ -1,0 +1,309 @@
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,03D24040, 0B859040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,03D24040, 0B856040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,03D24040, 0B854040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,099D5040, 0D3A8040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,099CA040, 0AD30040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,099CA040, 0770F040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,099CA040, 03A3C040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,099C3040, 07763040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,099C3040, 07762040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,099C3040, 07762040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,099C3040, 07764040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,099C3040, 0776C040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,099C3040, 07761040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,099C3040, 0776C040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,0991C040, 039B8040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,09A7B040, 0AA68040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:1
+test21
+test22
+test26, destLen:108000
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,09A7B040, 0ABF0040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:2
+test3
+test7
+test11
+test12
+test13
+test14
+test15
+test6:288,375,3
+test6:288,375,3
+test10
+test25
+test26
+test4
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,09A7B040, 0ABFA040
+test34
+sizeof(int)=4
+test35
+test38
+test1
+Mode:2
+test3
+test7
+test11
+test12
+test13
+test14
+test15
+test6:288,375,3
+test6:288,375,3
+test10
+test25
+test26
+test4
+test33 srcw:288,srch:375
+test39
+test73
+test74
+test75
+maxTmp:108000,maxData:1920000,09A7B040, 0ABF0040
+test34
+sizeof(int)=4
+test35
+test38

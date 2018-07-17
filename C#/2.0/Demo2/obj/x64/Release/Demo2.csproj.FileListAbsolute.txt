@@ -1,0 +1,8 @@
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\x64\Release\Demo.exe
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\x64\Release\Demo.pdb
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo2\obj\x64\Release\ResolveAssemblyReference.cache
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo2\obj\x64\Release\Demo.Form1.resources
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo2\obj\x64\Release\Demo.Properties.Resources.resources
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo2\obj\x64\Release\Demo2.csproj.GenerateResource.Cache
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo2\obj\x64\Release\Demo.exe
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo2\obj\x64\Release\Demo.pdb

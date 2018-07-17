@@ -1,0 +1,4 @@
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x64\GOLD\ResolveAssemblyReference.cache
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x64\GOLD\Demo.Form1.resources
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x64\GOLD\Demo.Properties.Resources.resources
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x64\GOLD\Demo.csproj.GenerateResource.Cache

@@ -1,0 +1,41 @@
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\bin\x86\Debug\Demo.exe
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\bin\x86\Debug\Demo.pdb
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\bin\x86\Debug\libzkfpdonet.dll
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\bin\x86\Debug\libzkfpdonet.pdb
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x86\Debug\Demo.Form1.resources
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.Cache
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x86\Debug\Demo.exe
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\CSharp\Demo\obj\x86\Debug\Demo.pdb
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\Debug\Demo.exe
+E:\Workspaces\zkteco svn\libfpsensor\trunk\libfpsensor\Debug\Demo.pdb
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\For C#\Demo\obj\x86\Debug\Demo.exe
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\For C#\Demo\obj\x86\Debug\Demo.pdb
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\For C#\Demo\bin\x86\Debug\Demo.exe
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\For C#\Demo\bin\x86\Debug\Demo.pdb
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\For C#\Demo\bin\x86\Debug\libzkfpcsharp.dll
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\For C#\Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\For C#\Demo\obj\x86\Debug\Demo.Form1.resources
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\For C#\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\For C#\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.Cache
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\Not ActiveX API\For C#\Demo\obj\x86\Debug\Demo.exe
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\Not ActiveX API\For C#\Demo\obj\x86\Debug\Demo.pdb
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\Not ActiveX API\For C#\Demo\bin\x86\Debug\Demo.exe
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\Not ActiveX API\For C#\Demo\bin\x86\Debug\Demo.pdb
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\Not ActiveX API\For C#\Demo\bin\x86\Debug\libzkfpcsharp.dll
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\Not ActiveX API\For C#\Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\Not ActiveX API\For C#\Demo\obj\x86\Debug\Demo.Form1.resources
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\Not ActiveX API\For C#\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+E:\全部安装包\NEW\版本发布\调试版本\ZKFinger SDK 5.0\Not ActiveX API\For C#\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.Cache
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160603\ZKFinger SDK 5.0\Not ActiveX API\For C#\Demo\obj\x86\Debug\Demo.exe
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160603\ZKFinger SDK 5.0\Not ActiveX API\For C#\Demo\obj\x86\Debug\Demo.pdb
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\1.0\Demo\obj\x86\Debug\Demo.exe
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\1.0\Demo\obj\x86\Debug\Demo.pdb
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\1.0\Demo\bin\x86\Debug\Demo.exe
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\1.0\Demo\bin\x86\Debug\Demo.pdb
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\1.0\Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\1.0\Demo\obj\x86\Debug\Demo.Form1.resources
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\1.0\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\1.0\Demo\obj\x86\Debug\Demo.csproj.GenerateResource.Cache
+E:\全部安装包\NEW\版本发布\新ZKFinger SDK\20160918\ZKFinger SDK 5.0\C#\1.0\Demo\bin\x86\Debug\libzkfpcsharp.dll
